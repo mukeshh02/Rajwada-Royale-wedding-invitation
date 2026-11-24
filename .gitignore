@@ -3,4 +3,5 @@ Thumbs.db
 *.log
 __pycache__/
 temp_*
+*.zip
 try/royale/saved_draft.json

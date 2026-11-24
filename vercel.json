@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/templates/royale/index.html?preview=1&trial=1"
+    }
+  ]
+}
